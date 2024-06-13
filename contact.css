@@ -1,0 +1,71 @@
+.contact-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 1024px;
+}
+.pexels-photo-by-felix-mitterme {
+  position: absolute;
+  top: -21px;
+  left: 0;
+  width: 1440px;
+  height: 1066px;
+  object-fit: cover;
+  opacity: 0.35;
+}
+.contact-me {
+  position: absolute;
+  top: 121px;
+  left: 574px;
+  font-weight: 500;
+  display: inline-block;
+  width: 650px;
+  height: 138px;
+}
+.skill-iconsinstagram,
+.skill-iconsinstagram-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 256px;
+  height: 256px;
+  overflow: hidden;
+}
+.skill-iconsinstagram-wrapper {
+  top: 319px;
+  left: 658px;
+  backdrop-filter: blur(10px);
+  border-radius: var(--br-base);
+  background-color: var(--color-black);
+  width: 124px;
+  height: 124px;
+}
+.contact-item {
+  position: absolute;
+  top: 319px;
+  left: 265px;
+  width: 914px;
+  height: 124px;
+}
+.entypoback-icon1 {
+  position: absolute;
+  top: 54px;
+  left: 28px;
+  width: 52px;
+  height: 51px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.contact2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 702px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

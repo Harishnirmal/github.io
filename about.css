@@ -1,0 +1,119 @@
+.harish-nirmal4 {
+  font-weight: 500;
+}
+.ui-ux-designer3 {
+  font-weight: 300;
+}
+.ui-ux-designer2 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.harish-nirmal-ui-container1 {
+  position: absolute;
+  top: 74px;
+  left: 125px;
+  display: inline-block;
+  width: 668px;
+  height: 154px;
+}
+.icon {
+  position: absolute;
+  top: 74px;
+  left: 582px;
+  width: 858px;
+  height: 839px;
+  object-fit: cover;
+}
+.as-you-know {
+  margin: 0;
+}
+.as-you-know-container {
+  position: absolute;
+  top: 176px;
+  left: 80px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 474px;
+  height: 109px;
+}
+.technical-skills {
+  position: absolute;
+  top: 355px;
+  left: 125px;
+  display: inline-block;
+  width: 378px;
+  height: 73px;
+}
+.css,
+.figma,
+.html,
+.javascript,
+.photoshop,
+.python {
+  position: absolute;
+  top: 62px;
+  left: 25px;
+  font-weight: 500;
+  display: inline-block;
+  width: 275px;
+  height: 35px;
+}
+.css,
+.figma,
+.javascript,
+.photoshop,
+.python {
+  top: 115px;
+}
+.figma,
+.javascript,
+.photoshop,
+.python {
+  top: 168px;
+  left: 20px;
+}
+.figma,
+.photoshop,
+.python {
+  top: 221px;
+}
+.figma,
+.photoshop {
+  top: 274px;
+}
+.figma {
+  top: 327px;
+}
+.entypoback-icon,
+.html-parent {
+  position: absolute;
+  overflow: hidden;
+}
+.html-parent {
+  top: 449px;
+  left: 125px;
+  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.15);
+  border-radius: var(--br-base);
+  background-color: #fafafa;
+  width: 319px;
+  height: 423px;
+  font-size: var(--font-size-5xl);
+}
+.entypoback-icon {
+  top: 23px;
+  left: 19px;
+  width: 52px;
+  height: 51px;
+  cursor: pointer;
+}
+.about2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
